@@ -1,3 +1,6 @@
 *.pt
 *.mp4
 *.jpeg
+*.onnx
+*.engine
+*.cache
